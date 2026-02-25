@@ -1,5 +1,6 @@
 {
   "enabledPlugins": [
+    "obsidian-git",
     "obsidian-local-rest-api",
     "dataview",
     "quickadd",

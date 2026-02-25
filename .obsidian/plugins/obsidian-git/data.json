@@ -1,0 +1,23 @@
+{
+  "autoCommitInterval": 30,
+  "autoPullInterval": 30,
+  "autoPushInterval": 30,
+  "commitMessage": "Vault backup: {{date}} {{time}}",
+  "pullUpdatesOnStartup": true,
+  "pushOnSave": true,
+  "showStatusBar": true,
+  "listChangedFilesOnStartup": false,
+  "refreshOnStart": true,
+  "signCommits": false,
+  "author": "",
+  "email": "",
+  "encryption": false,
+  "key": "",
+  "basePath": "",
+  "confirmPush": false,
+  "confirmPull": false,
+  "confirmMerge": true,
+  "disableOtherNavButtons": false,
+  "branch": "main",
+  "upstream": "origin"
+}
