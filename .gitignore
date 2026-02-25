@@ -1,0 +1,13 @@
+.obsidian/workspace
+.obsidian/graph.json
+.obsidian/cache
+.obsidian/apps.json
+.obsidian/appearance.json
+.obsidian/core-plugins-migration.json
+.obsidian/workspace-mobile.json
+.obsidian/snippets/
+.trash/
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
