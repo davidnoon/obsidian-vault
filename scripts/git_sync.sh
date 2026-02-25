@@ -1,7 +1,7 @@
 #!/bin/bash
 # Obsidian Git Auto-Sync Script
 
-VAULT_DIR="/Users/davidnoon/Documents/Obsidian_sync"
+VAULT_DIR="/Users/davidnoon/Library/Mobile Documents/com~apple~CloudDocs/Obsidian/Obsidian_sync"
 LOG_FILE="$VAULT_DIR/scripts/sync.log"
 
 # Log start time
