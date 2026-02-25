@@ -1,0 +1,11 @@
+{
+  "enable": true,
+  "renderEnabled": true,
+  "maxPreviewLen": 150,
+  "prettyDateFormat": "YYYY-MM-DD",
+  "commandModal": true,
+  "allowDataviewInlineFieldsJavaScript": false,
+  "inlineFieldLabels": true,
+  "rewriteLinkUrls": false,
+  "showStatus": "loaded"
+}

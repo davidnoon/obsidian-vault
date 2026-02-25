@@ -1,0 +1,12 @@
+{
+  "apiKey": "",
+  "authorize": true,
+  "defaultFields": {
+    "frontmatter": true
+  },
+  "documentation": "https://github.com/coddingtonbear/obsidian-local-rest-api",
+  "listenForShutdown": true,
+  "maxFetchSize": 1000,
+  "port": 27123,
+  "showStatus": true
+}
