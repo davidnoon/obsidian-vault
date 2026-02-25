@@ -1,8 +1,6 @@
 {
-  "theme": "obsidian",
   "themeFamily": "obsidian",
   "csstheme": "obsidian.css",
-  "accentColor": "",
   "livePreview": true,
   "showLineNumber": false,
   "readableLineLength": false,
