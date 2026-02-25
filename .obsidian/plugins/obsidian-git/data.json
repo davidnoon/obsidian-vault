@@ -13,7 +13,7 @@
   "email": "",
   "encryption": false,
   "key": "",
-  "basePath": "",
+  "basePath": "/home/david/Documents/Obsidian",
   "confirmPush": false,
   "confirmPull": false,
   "confirmMerge": true,
