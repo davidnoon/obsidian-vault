@@ -1,13 +1,17 @@
-.obsidian/workspace
-.obsidian/graph.json
-.obsidian/cache
-.obsidian/apps.json
-.obsidian/appearance.json
-.obsidian/core-plugins-migration.json
+# Obsidian internal files
+.obsidian/workspace.json
 .obsidian/workspace-mobile.json
-.obsidian/snippets/
-.trash/
+.obsidian/graph.json
+.obsidian/cache/
+.obsidian/indexed_db/
+
+# Optional: Ignore appearance/plugins if you want device-specific themes/plugins
+# .obsidian/appearance.json
+# .obsidian/plugins/
+
+# OS/System files
 .DS_Store
 Thumbs.db
 *.tmp
 *.log
+.trash/
