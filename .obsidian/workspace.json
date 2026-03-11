@@ -194,6 +194,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "3e2e2668d4b8628f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
         "currentTab": 6
@@ -217,5 +227,7 @@
     }
   },
   "active": "288222ce20f8c374",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Untitled.base"
+  ]
 }
