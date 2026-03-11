@@ -1,8 +1,9 @@
 [
-  "obsidian-git",
   "obsidian-tasks-plugin",
-  "omnisearch",
-  "obsidian-importer",
   "calendar",
-  "editing-toolbar"
+  "obsidian-git",
+  "omnisearch",
+  "editing-toolbar",
+  "obsidian-importer",
+  "recent-files-obsidian"
 ]

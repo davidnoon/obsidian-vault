@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d442388bf2c99ec2",
+        "id": "44985411d4748908",
         "type": "tabs",
         "children": [
           {
-            "id": "752fa19199882f62",
+            "id": "a9637fc4389f45ce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-03-11.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-03-11"
             }
           }
         ]
@@ -69,6 +73,16 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "d95927b4aa4e9753",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ]
       }
@@ -90,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2026-03-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2026-03-11"
             }
           },
           {
@@ -108,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2026-03-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2026-03-11"
             }
           },
           {
@@ -150,16 +166,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Daily/2026-03-11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2026-03-11"
             }
           },
           {
-            "id": "93044c9fa3f777fd",
+            "id": "110dfd650f354aa1",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -169,7 +186,7 @@
             }
           },
           {
-            "id": "a785fc16baec70ca",
+            "id": "0e252cc8145de8a7",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -199,10 +216,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "752fa19199882f62",
+  "active": "a9637fc4389f45ce",
   "lastOpenFiles": [
-    "00-Inbox/Inbox test note 7 . 10pm March 11th.md",
-    "Daily/2026-03-11.md",
-    "Untitled.base"
+    "IndexMarch-2026.base",
+    "Daily/2026-03-11.md"
   ]
 }
