@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b9eafe1988ad7994",
+        "id": "d442388bf2c99ec2",
         "type": "tabs",
         "children": [
           {
-            "id": "92b0b8ab8b4b698c",
+            "id": "752fa19199882f62",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -159,16 +159,6 @@
             }
           },
           {
-            "id": "3e2e2668d4b8628f",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "93044c9fa3f777fd",
             "type": "leaf",
             "state": {
@@ -177,14 +167,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "a785fc16baec70ca",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,8 +199,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "92b0b8ab8b4b698c",
+  "active": "752fa19199882f62",
   "lastOpenFiles": [
+    "00-Inbox/Inbox test note 7 . 10pm March 11th.md",
     "Daily/2026-03-11.md",
     "Untitled.base"
   ]
