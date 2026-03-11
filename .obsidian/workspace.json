@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "44985411d4748908",
+        "id": "cc8251c75cac8815",
         "type": "tabs",
         "children": [
           {
-            "id": "a9637fc4389f45ce",
+            "id": "33e74ca7cb4d004c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026-03-11.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-03-11"
+              "title": "New tab"
             }
           }
         ]
@@ -216,9 +212,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a9637fc4389f45ce",
+  "active": "a71527fdbde93b15",
   "lastOpenFiles": [
-    "IndexMarch-2026.base",
-    "Daily/2026-03-11.md"
+    "00-Inbox/Inbox test note 7 . 10pm March 11th.md",
+    "OpenClaw/past telegram or discord chats/March 10 - a few memories for Alfred.md",
+    "OpenClaw/past telegram or discord chats/March 11 reminders for Alfred.md",
+    "Daily/2026-03-11.md",
+    "OpenClaw/past telegram or discord chats",
+    "IndexMarch-2026.base"
   ]
 }
