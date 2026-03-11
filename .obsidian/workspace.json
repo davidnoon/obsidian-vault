@@ -196,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,7 +213,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a71527fdbde93b15",
+  "active": "33e74ca7cb4d004c",
   "lastOpenFiles": [
     "00-Inbox/Inbox test note 7 . 10pm March 11th.md",
     "OpenClaw/past telegram or discord chats/March 10 - a few memories for Alfred.md",
