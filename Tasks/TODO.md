@@ -37,3 +37,6 @@
 - [ ] **Verify gh CLI installation and auth**
 - [ ] **Astorica Vietnam Work**
 - [ ] **Aviation Business**
+
+## Synced Tasks
+- [x] **ADL Cap:** Website update and migration to cheaper/more reliable host (Status: Removed Planka, reassessing tool)
