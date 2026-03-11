@@ -11,10 +11,14 @@
             "id": "288222ce20f8c374",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-03-11.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-03-11"
             }
           }
         ]
@@ -80,8 +84,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2026-03-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2026-03-11"
             }
           },
           {
@@ -119,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2026-03-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2026-03-11"
             }
           },
           {
@@ -161,12 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Daily/2026-03-11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2026-03-11"
             }
           },
           {
@@ -210,6 +216,6 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a71527fdbde93b15",
+  "active": "288222ce20f8c374",
   "lastOpenFiles": []
 }
