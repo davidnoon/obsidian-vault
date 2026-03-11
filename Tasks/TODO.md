@@ -40,3 +40,6 @@
 
 ## Synced Tasks
 - [x] **ADL Cap:** Website update and migration to cheaper/more reliable host (Status: Removed Planka, reassessing tool)
+
+## Synced Tasks
+- [ ] **Lead Generation Outreach** (Daily Batch - 20 leads/day)
