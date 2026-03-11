@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2078176a06e1da20",
+        "id": "b9eafe1988ad7994",
         "type": "tabs",
         "children": [
           {
-            "id": "7e2cdd47b8368bfc",
+            "id": "92b0b8ab8b4b698c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -183,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,8 +200,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "3e2e2668d4b8628f",
+  "active": "92b0b8ab8b4b698c",
   "lastOpenFiles": [
+    "Daily/2026-03-11.md",
     "Untitled.base"
   ]
 }
