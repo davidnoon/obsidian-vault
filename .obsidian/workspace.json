@@ -11,10 +11,14 @@
             "id": "a9637fc4389f45ce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-03-11.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-03-11"
             }
           }
         ]
@@ -100,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IndexMarch-2026.base",
+                "file": "Daily/2026-03-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for IndexMarch-2026"
+              "title": "Backlinks for 2026-03-11"
             }
           },
           {
@@ -119,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IndexMarch-2026.base",
+                "file": "Daily/2026-03-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from IndexMarch-2026"
+              "title": "Outgoing links from 2026-03-11"
             }
           },
           {
@@ -162,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IndexMarch-2026.base",
+                "file": "Daily/2026-03-11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of IndexMarch-2026"
+              "title": "Outline of 2026-03-11"
             }
           },
           {
@@ -196,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,9 +216,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a71527fdbde93b15",
+  "active": "a9637fc4389f45ce",
   "lastOpenFiles": [
-    "Daily/2026-03-11.md",
-    "IndexMarch-2026.base"
+    "IndexMarch-2026.base",
+    "Daily/2026-03-11.md"
   ]
 }
