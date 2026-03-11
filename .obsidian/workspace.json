@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cc8251c75cac8815",
+        "id": "fbbcf9ce62bd99c8",
         "type": "tabs",
         "children": [
           {
-            "id": "33e74ca7cb4d004c",
+            "id": "92233b7223953be6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -213,7 +213,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "33e74ca7cb4d004c",
+  "active": "92233b7223953be6",
   "lastOpenFiles": [
     "00-Inbox/Inbox test note 7 . 10pm March 11th.md",
     "OpenClaw/past telegram or discord chats/March 10 - a few memories for Alfred.md",

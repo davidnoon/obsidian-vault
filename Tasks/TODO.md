@@ -24,3 +24,16 @@
 
 ## Synced Tasks
 - [ ] **NEW:** Check OpenClaw v2026.3.8 update — breaking changes, impacts, new features [ACTIVE]
+
+## Synced Tasks
+- [ ] **Obsidian Git broken** - Snap sandbox prevents Git access
+- [ ] **Clean up stale agent inbox tasks**
+- [ ] **Automate Response - Launch**
+- [ ] **Savie Global website** - Content upgrade scheduled for Saturday
+- [ ] **ADL Cap website** - Migration to cheaper/more reliable host
+- [ ] **Setup first NotebookLM notebook**
+- [ ] **Create chunking script** for hour-long recordings
+- [ ] **Check OpenClaw v2026.3.8 update**
+- [ ] **Verify gh CLI installation and auth**
+- [ ] **Astorica Vietnam Work**
+- [ ] **Aviation Business**
