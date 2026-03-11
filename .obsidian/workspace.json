@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "db1f049b7a7e6f85",
+        "id": "2078176a06e1da20",
         "type": "tabs",
         "children": [
           {
-            "id": "288222ce20f8c374",
+            "id": "7e2cdd47b8368bfc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -171,6 +167,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "93044c9fa3f777fd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 5
@@ -193,7 +199,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "288222ce20f8c374",
+  "active": "3e2e2668d4b8628f",
   "lastOpenFiles": [
     "Untitled.base"
   ]

@@ -2,5 +2,7 @@
   "obsidian-git",
   "obsidian-tasks-plugin",
   "omnisearch",
-  "obsidian-importer"
+  "obsidian-importer",
+  "calendar",
+  "editing-toolbar"
 ]
