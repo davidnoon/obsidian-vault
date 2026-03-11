@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e581ad83b6a5dbfa",
+        "id": "44985411d4748908",
         "type": "tabs",
         "children": [
           {
-            "id": "4374bfa1a07c5f80",
+            "id": "a9637fc4389f45ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026-03-11.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-03-11"
+              "title": "New tab"
             }
           }
         ]
@@ -104,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2026-03-11.md",
+                "file": "IndexMarch-2026.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +110,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-03-11"
+              "title": "Backlinks for IndexMarch-2026"
             }
           },
           {
@@ -123,12 +119,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2026-03-11.md",
+                "file": "IndexMarch-2026.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-03-11"
+              "title": "Outgoing links from IndexMarch-2026"
             }
           },
           {
@@ -166,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2026-03-11.md",
+                "file": "IndexMarch-2026.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-11"
+              "title": "Outline of IndexMarch-2026"
             }
           },
           {
@@ -200,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,9 +213,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4374bfa1a07c5f80",
+  "active": "a71527fdbde93b15",
   "lastOpenFiles": [
     "Daily/2026-03-11.md",
-    "Untitled.base"
+    "IndexMarch-2026.base"
   ]
 }
