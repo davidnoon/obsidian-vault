@@ -1,0 +1,177 @@
+=== Thu 26 Feb 2026 00:04:26 ACDT ===
+No updates at Thu 26 Feb 2026 00:04:27 ACDT
+
+=== Thu 26 Feb 2026 00:31:11 ACDT ===
+No updates at Thu 26 Feb 2026 00:31:12 ACDT
+
+=== Thu 26 Feb 2026 08:00:01 ACDT ===
+From https://github.com/davidnoon/obsidian-vault
+   851496a..4937735  main       -> origin/main
+From https://github.com/davidnoon/obsidian-vault
+ * branch            main       -> FETCH_HEAD
+Updating 851496a..4937735
+Fast-forward
+ .gitignore                                         |    20 +-
+ .obsidian/app.json                                 |     4 +-
+ .obsidian/appearance.json                          |     4 +
+ .obsidian/community-plugins.json                   |    18 +-
+ .obsidian/core-plugins.json                        |    33 +
+ .obsidian/plugins/dataview/main.js                 | 20876 ++++++++++++
+ .obsidian/plugins/dataview/manifest.json           |    11 +
+ .obsidian/plugins/dataview/styles.css              |   141 +
+ .obsidian/plugins/docxer/main.js                   | 28458 +++++++++++++++++
+ .obsidian/plugins/docxer/manifest.json             |    10 +
+ .obsidian/plugins/docxer/styles.css                |    40 +
+ .obsidian/plugins/icloud-contacts/main.js          |  4165 +++
+ .obsidian/plugins/icloud-contacts/manifest.json    |    11 +
+ .obsidian/plugins/obsidian-git/main.js             |   452 +
+ .obsidian/plugins/obsidian-git/manifest.json       |    10 +
+ .obsidian/plugins/obsidian-git/styles.css          |   705 +
+ .obsidian/plugins/obsidian-google-lookup/main.js   | 31760 +++++++++++++++++++
+ .../plugins/obsidian-google-lookup/manifest.json   |    10 +
+ .../plugins/obsidian-google-lookup/styles.css      |     3 +
+ .obsidian/plugins/obsidian-importer/main.js        |   291 +
+ .obsidian/plugins/obsidian-importer/manifest.json  |    10 +
+ .obsidian/plugins/obsidian-importer/styles.css     |   173 +
+ .obsidian/plugins/quickadd/data.json               |   115 +-
+ .obsidian/plugins/quickadd/main.js                 |   114 +
+ .obsidian/plugins/quickadd/manifest.json           |    12 +
+ .obsidian/plugins/quickadd/styles.css              |     1 +
+ .../DGNOON CV 2026Jan_withCoverletter.jpeg         |   Bin 0 -> 43368 bytes
+ .../Aviation Service Opportunities Vietnam.gdoc    |     1 +
+ 00-Inbox/CIS_JML FINANCIAL_Dec2025.docx            |   Bin 0 -> 1094472 bytes
+ 00-Inbox/DGNOON CV 2026Jan.pdf                     |   Bin 0 -> 173882 bytes
+ 00-Inbox/DGNOON CV 2026Jan_withCoverletter.docx    |   Bin 0 -> 77597 bytes
+ 00-Inbox/DGNOON CV 2026Jan_withCoverletter.md      |   104 +
+ 00-Inbox/DGNOON CV2026Jan_Coverletter.pdf          |   Bin 0 -> 620279 bytes
+ 31-Astorica/Astorica SBLC finance package.gdoc     |     1 +
+ Obsidian iCloud contacts pluggin.md                |    60 +
+ scripts/git_sync.sh                                |    33 +
+ 36 files changed, 87625 insertions(+), 21 deletions(-)
+ create mode 100644 .obsidian/appearance.json
+ create mode 100644 .obsidian/core-plugins.json
+ create mode 100644 .obsidian/plugins/dataview/main.js
+ create mode 100644 .obsidian/plugins/dataview/manifest.json
+ create mode 100644 .obsidian/plugins/dataview/styles.css
+ create mode 100644 .obsidian/plugins/docxer/main.js
+ create mode 100644 .obsidian/plugins/docxer/manifest.json
+ create mode 100644 .obsidian/plugins/docxer/styles.css
+ create mode 100644 .obsidian/plugins/icloud-contacts/main.js
+ create mode 100644 .obsidian/plugins/icloud-contacts/manifest.json
+ create mode 100644 .obsidian/plugins/obsidian-git/main.js
+ create mode 100644 .obsidian/plugins/obsidian-git/manifest.json
+ create mode 100644 .obsidian/plugins/obsidian-git/styles.css
+ create mode 100644 .obsidian/plugins/obsidian-google-lookup/main.js
+ create mode 100644 .obsidian/plugins/obsidian-google-lookup/manifest.json
+ create mode 100644 .obsidian/plugins/obsidian-google-lookup/styles.css
+ create mode 100644 .obsidian/plugins/obsidian-importer/main.js
+ create mode 100644 .obsidian/plugins/obsidian-importer/manifest.json
+ create mode 100644 .obsidian/plugins/obsidian-importer/styles.css
+ create mode 100644 .obsidian/plugins/quickadd/main.js
+ create mode 100644 .obsidian/plugins/quickadd/manifest.json
+ create mode 100644 .obsidian/plugins/quickadd/styles.css
+ create mode 100644 00-Inbox/Attachments/DGNOON CV 2026Jan_withCoverletter.jpeg
+ create mode 100644 00-Inbox/Aviation Service Opportunities Vietnam.gdoc
+ create mode 100644 00-Inbox/CIS_JML FINANCIAL_Dec2025.docx
+ create mode 100644 00-Inbox/DGNOON CV 2026Jan.pdf
+ create mode 100644 00-Inbox/DGNOON CV 2026Jan_withCoverletter.docx
+ create mode 100644 00-Inbox/DGNOON CV 2026Jan_withCoverletter.md
+ create mode 100644 00-Inbox/DGNOON CV2026Jan_Coverletter.pdf
+ create mode 100644 31-Astorica/Astorica SBLC finance package.gdoc
+ create mode 100644 Obsidian iCloud contacts pluggin.md
+ create mode 100755 scripts/git_sync.sh
+Pulled updates at Thu 26 Feb 2026 08:00:04 ACDT
+
+=== Thu 26 Feb 2026 14:00:01 ACDT ===
+No updates at Thu 26 Feb 2026 14:00:02 ACDT
+
+=== Thu 26 Feb 2026 20:00:01 ACDT ===
+No updates at Thu 26 Feb 2026 20:00:02 ACDT
+
+=== Fri 27 Feb 2026 08:00:01 ACDT ===
+No updates at Fri 27 Feb 2026 08:00:01 ACDT
+
+=== Fri 27 Feb 2026 14:00:01 ACDT ===
+No updates at Fri 27 Feb 2026 14:00:02 ACDT
+
+=== Fri 27 Feb 2026 20:00:01 ACDT ===
+No updates at Fri 27 Feb 2026 20:00:02 ACDT
+
+=== Sat 28 Feb 2026 08:00:02 ACDT ===
+No updates at Sat 28 Feb 2026 08:00:02 ACDT
+
+=== Sat 28 Feb 2026 14:00:01 ACDT ===
+No updates at Sat 28 Feb 2026 14:00:02 ACDT
+
+=== Sat 28 Feb 2026 20:00:01 ACDT ===
+No updates at Sat 28 Feb 2026 20:00:01 ACDT
+
+=== Sun 01 Mar 2026 08:00:01 ACDT ===
+No updates at Sun 01 Mar 2026 08:00:01 ACDT
+
+=== Sun 01 Mar 2026 14:00:01 ACDT ===
+No updates at Sun 01 Mar 2026 14:00:01 ACDT
+
+=== Sun 01 Mar 2026 20:00:01 ACDT ===
+No updates at Sun 01 Mar 2026 20:00:02 ACDT
+
+=== Mon 02 Mar 2026 08:00:01 ACDT ===
+No updates at Mon 02 Mar 2026 08:00:02 ACDT
+
+=== Mon 02 Mar 2026 14:00:01 ACDT ===
+No updates at Mon 02 Mar 2026 14:00:02 ACDT
+
+=== Mon 02 Mar 2026 20:00:01 ACDT ===
+No updates at Mon 02 Mar 2026 20:00:02 ACDT
+
+=== Tue 03 Mar 2026 08:00:01 ACDT ===
+No updates at Tue 03 Mar 2026 08:00:02 ACDT
+
+=== Tue 03 Mar 2026 14:00:01 ACDT ===
+No updates at Tue 03 Mar 2026 14:00:02 ACDT
+
+=== Tue 03 Mar 2026 20:00:01 ACDT ===
+No updates at Tue 03 Mar 2026 20:00:02 ACDT
+
+=== Wed 04 Mar 2026 08:00:01 ACDT ===
+No updates at Wed 04 Mar 2026 08:00:02 ACDT
+
+=== Wed 04 Mar 2026 14:00:01 ACDT ===
+No updates at Wed 04 Mar 2026 14:00:02 ACDT
+
+=== Wed 04 Mar 2026 20:00:01 ACDT ===
+No updates at Wed 04 Mar 2026 20:00:02 ACDT
+
+=== Thu 05 Mar 2026 08:00:01 ACDT ===
+No updates at Thu 05 Mar 2026 08:00:02 ACDT
+
+=== Thu 05 Mar 2026 14:00:01 ACDT ===
+No updates at Thu 05 Mar 2026 14:00:02 ACDT
+
+=== Thu 05 Mar 2026 20:00:01 ACDT ===
+No updates at Thu 05 Mar 2026 20:00:02 ACDT
+
+=== Fri 06 Mar 2026 08:00:01 ACDT ===
+No updates at Fri 06 Mar 2026 08:00:01 ACDT
+
+=== Fri 06 Mar 2026 14:00:01 ACDT ===
+No updates at Fri 06 Mar 2026 14:00:02 ACDT
+
+=== Fri 06 Mar 2026 20:00:01 ACDT ===
+No updates at Fri 06 Mar 2026 20:00:02 ACDT
+
+=== Sat 07 Mar 2026 08:00:01 ACDT ===
+No updates at Sat 07 Mar 2026 08:00:02 ACDT
+
+=== Sat 07 Mar 2026 14:00:01 ACDT ===
+No updates at Sat 07 Mar 2026 14:00:02 ACDT
+
+=== Sat 07 Mar 2026 20:00:01 ACDT ===
+No updates at Sat 07 Mar 2026 20:00:02 ACDT
+
+=== Sun 08 Mar 2026 08:00:01 ACDT ===
+No updates at Sun 08 Mar 2026 08:00:02 ACDT
+
+=== Sun 08 Mar 2026 14:00:01 ACDT ===
+No updates at Sun 08 Mar 2026 14:00:02 ACDT
+
