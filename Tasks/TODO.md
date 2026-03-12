@@ -46,3 +46,6 @@
 
 ## Synced Tasks
 - [x] **Obsidian Git fixed** - Snap replaced with AppImage, Git sync restored ✅ (2026-03-12)
+
+## Synced Tasks
+- [x] **Clean up stale agent inbox tasks** - No stale tasks found in inbox; completed tasks already in outbox with -DONE suffix ✅ (2026-03-12)
