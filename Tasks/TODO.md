@@ -43,3 +43,6 @@
 
 ## Synced Tasks
 - [ ] **Lead Generation Outreach** (Daily Batch - 20 leads/day)
+
+## Synced Tasks
+- [x] **Obsidian Git fixed** - Snap replaced with AppImage, Git sync restored ✅ (2026-03-12)
