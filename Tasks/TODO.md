@@ -49,3 +49,6 @@
 
 ## Synced Tasks
 - [x] **Clean up stale agent inbox tasks** - No stale tasks found in inbox; completed tasks already in outbox with -DONE suffix ✅ (2026-03-12)
+
+## Synced Tasks
+- [ ] **Review moved files from agent outboxes to shared/projects folders**
