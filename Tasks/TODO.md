@@ -57,3 +57,7 @@
 - [ ] Copy actual skills (not symlinks) into ~/.openclaw/skills/ for v2026.3.12 compatibility
 - [ ] Check duplicate memory file issue (2026-03-13-co2-infographic.md owned by root)
 - [x] Compaction Flush - added channel: telegram to delivery config
+
+## Synced Tasks
+- [x] Copy skills to ~/.openclaw/workspace/skills/ (7/16 HIGH priority done)
+- [ ] Convert remaining HIGH priority skills: seo-audit, ai-seo, schema-markup, site-architecture, programmatic-seo, pricing-strategy, competitor-alternatives, launch-strategy, cold-email
