@@ -52,3 +52,8 @@
 
 ## Synced Tasks
 - [ ] **Review moved files from agent outboxes to shared/projects folders**
+
+## Synced Tasks
+- [ ] Copy actual skills (not symlinks) into ~/.openclaw/skills/ for v2026.3.12 compatibility
+- [ ] Check duplicate memory file issue (2026-03-13-co2-infographic.md owned by root)
+- [x] Compaction Flush - added channel: telegram to delivery config
